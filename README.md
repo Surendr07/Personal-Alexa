@@ -1,1 +1,2 @@
 # Personal-Alexa
+The following code is a kind of AI which will help us in enormous way. At the start of the program it will greet us and in rest time it will do the things which will be inputed by us the code is written in Python programming Languages. The thing which will be done by it are: *it will open youtube for us when we will say open youtube *it will also search anthing on wikipedia and show u the results *it will also sent the email to anyone u want *it will also play the music u wish *it will also tell u the time whenever u want
